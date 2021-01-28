@@ -20,4 +20,7 @@ This basically generates a random sudoku puzzle
 Surprise!
 
 # Watchout
-There might be some errors Speed Calculator
+There might be some errors in Speed Calculator
+
+# SignOff
+So Yeah That's it Guys, And I put a lot of effort into making this (except for Projectile) for you, so please will your opinion in the comments, as a 13 year old kid it really means a lot to me Bye Guys!
