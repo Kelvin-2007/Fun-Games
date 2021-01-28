@@ -12,3 +12,12 @@ This is basically a Projectile Simulation or a Physics Simulation to be short (S
 
 # Speed Calculator
 This basically calculates how fast you type
+
+# Sudoku
+This basically generates a random sudoku puzzle
+
+# what is my weight
+Surprise!
+
+# Watchout
+There might be some errors Speed Calculator
