@@ -2,7 +2,16 @@ from time import sleep
 from random import randint
 from math import hypot
 from os import system
-#from winsound import Beep
+
+winsoundimport = False
+
+try:
+    from win sound import beep
+    winsoundimport = True
+except:
+    pass
+finally:
+    pass
 
 def ConfigureCmd():
     system("echo off")
@@ -127,7 +136,8 @@ def Hunt():
                 print(f"Target Jumped")
                 print()
         sleep(1)
-    #Beep(1000, 1000)
+    if winsoundimport:
+        Beep(1000, 1000)
 
 Setup()
 Hunt()
