@@ -6,7 +6,7 @@ from os import system
 winsoundimport = False
 
 try:
-    from win sound import beep
+    from winsound import beep
     winsoundimport = True
 except:
     pass
